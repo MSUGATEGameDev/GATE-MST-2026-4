@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '[Your Game Name]'
+  m_text: Don't Crash It! (also save your potato i guess.)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1311,8 +1311,8 @@ MonoBehaviour:
     Opens a scene, takes you to a menu page, or opens menus on
     a menu page.'
   buttonType: 1
-  pageToOpen: {fileID: 0}
-  sceneToOpen: ExampleLevel
+  pageToOpen: {fileID: 289041487}
+  sceneToOpen: Level 1
   objectsToShow: []
   objectsToHide: []
 --- !u!1 &539540605
@@ -2000,10 +2000,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Created By - Your Name\nWritten By - Your Name\n\nGame Template By: \nToastid
-    Waffel & MedievalApple\n(toastidwaffel.com & medievalapple.net)\n\nModels By:\nToastid
-    Waffel\nMedieval Apple\nBenjaTheMaker (Unity Asset Store)\nITHappy (Unity Asset
-    Store)\nThePolyNestLab (Unity Asset Store)\nDHILRUBA (Unity Asset Store)\n"
+  m_text: "Created By - Max Schneider\nWritten By - Max Schneider\n\nGame Template
+    By: \nToastid Waffel & MedievalApple\n(toastidwaffel.com & medievalapple.net)\n\nModels
+    By:\nToastid Waffel\nMedieval Apple\nBenjaTheMaker (Unity Asset Store)\nITHappy
+    (Unity Asset Store)\nThePolyNestLab (Unity Asset Store)\nDHILRUBA (Unity Asset
+    Store)\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3179,7 +3180,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2115100791}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &2115100793
 Camera:
   m_ObjectHideFlags: 0
