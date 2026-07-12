@@ -6465,6 +6465,7 @@ MonoBehaviour:
   actions:
   - {fileID: 1924132193}
   - {fileID: 1823802927}
+  clearObjectives: 1
 --- !u!82 &1006431941
 AudioSource:
   m_ObjectHideFlags: 0
@@ -9679,9 +9680,17 @@ PrefabInstance:
       propertyPath: maxConcurrentSpawn
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 7312096204392903048, guid: 19e37230fb48f894691da21dbf2f9f97, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7312096204392903048, guid: 19e37230fb48f894691da21dbf2f9f97, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8207233449808411117, guid: 19e37230fb48f894691da21dbf2f9f97, type: 3}
       propertyPath: m_LocalScale.x
-      value: 100
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8207233449808411117, guid: 19e37230fb48f894691da21dbf2f9f97, type: 3}
       propertyPath: m_LocalScale.y
@@ -9689,7 +9698,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8207233449808411117, guid: 19e37230fb48f894691da21dbf2f9f97, type: 3}
       propertyPath: m_LocalScale.z
-      value: 100
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8207233449808411117, guid: 19e37230fb48f894691da21dbf2f9f97, type: 3}
       propertyPath: m_LocalPosition.x
